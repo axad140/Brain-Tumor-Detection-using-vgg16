@@ -1,1 +1,1 @@
-# Brain-Tumor-Detection-project-image-Classificatiomn-
+# Brain-Tumor-Detection-project-image-Classification-
